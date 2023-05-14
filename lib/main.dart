@@ -74,5 +74,15 @@ class _MyHomePageState extends State<MyHomePage> {
     //nnnnnjnfjnjfnjfnjbjfb
     // thrid featire
     //njnjnjn
+    // test new feature
+    // one more feature added
+    //nnnnnjnfjnjfnjfnjbjfb
+    // thrid featire
+    //njnjnjn
+    //git commit --amend"
+     // one more feature added
+    //nnnnnjnfjnjfnjfnjbjfb
+    // thrid featire
+    //njnjnjn
   }
 }
