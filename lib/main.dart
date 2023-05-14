@@ -66,10 +66,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
     // test new feature
     // one more feature added
-<<<<<<< HEAD
     //nnnnnjnfjnjfnjfnjbjfb
-=======
-    //nnnn
->>>>>>> 7ca0268 (add)
   }
 }
