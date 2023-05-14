@@ -69,5 +69,6 @@ class _MyHomePageState extends State<MyHomePage> {
     //nnnnnjnfjnjfnjfnjbjfb
     // thrid featire
     //njnjnjn
+    //git commit --amend"
   }
 }
