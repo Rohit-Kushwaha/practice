@@ -66,17 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
     // test new feature
     // one more feature added
-<<<<<<< HEAD
     //nnnnnjnfjnjfnjfnjbjfb
-<<<<<<< HEAD
-<<<<<<< HEAD
     // thrid featire
-=======
->>>>>>> 1ec02a4 (Add)
-=======
-=======
-    //nnnn
->>>>>>> 7ca0268 (add)
->>>>>>> 5cceab7 (Add)
   }
 }
